@@ -25,7 +25,7 @@ The bot is designed to mimic a few common scenarios:
 
 
 
-Regenerate response
+
 
 ## Setup
 
