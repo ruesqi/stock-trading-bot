@@ -11,25 +11,21 @@
 
 Current Version: **0.1.1**
 
-A trading robot written in Python that can run automated strategies using a technical analysis.
-The robot is designed to mimic a few common scenarios:
 
-1. Maintaining a portfolio of multiple instruments. The `Portfolio` object will be able
-   to calculate common risk metrics related to a portfolio and give real-time feedback
-   as you trade.
+The bot is designed to mimic a few common scenarios:
+   
+ 1.  The Python-coded trading robot is capable of executing automated strategies using technical analysis, and is designed to emulate a variety of common situations. One such situation involves managing a portfolio of multiple financial instruments, with the Portfolio feature providing risk metrics and real-time feedback during trades.
 
-2. Define an order that can be used to trade a financial instrument. With the `Trade` object,
-   you can define simple or even complex orders using Python. These orders will also help similify
-   common scenarios like defining both a take profit and stop loss at the same time.
+2. Another feature, the Trade object, enables the definition of both simple and complex orders using Python, thus simplifying common scenarios like the simultaneous definition of take profit and stop loss orders.
 
-3. A real-time data table that includes both historical and real-time prices as they change. The
-   `StockFrame` will make the process of storing your data easy and quick. Additionally, it will be
-   setup so that way you can easily select your financial data as it comes in and do further analysis
-   if needed.
+3. The bot also incorporates a real-time data table that contains historical and updated prices. The StockFrame feature facilitates the storage and retrieval of financial data for analysis purposes.
 
-4. Define and calculate indicators using both historical and real-time prices. The `Indicator` object
-   will help you easily define the input of your indicators, calculate them, and then update their values
-   as new prices come.
+4. Finally, the Indicator feature enables the definition and calculation of indicators based on both historical and real-time prices. It provides an easy means of specifying input, performing calculations, and updating values as new prices become available. All of these features work together to create an efficient trading tool.
+
+
+
+
+Regenerate response
 
 ## Setup
 
